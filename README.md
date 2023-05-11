@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antresssss
-- 👀 I’m interested in learing?
-- 🌱 I’m currently learning engineering
+- 👀 I’m interested in the web.
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me andreatresa2004@gmail.com
 
