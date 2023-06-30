@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @antresssss
+- 👋 Hi, I’m Andrea.
 - 👀 I’m interested in the web.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on projects
