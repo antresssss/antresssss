@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Andrea.
-- 👀 I’m interested in the web,app development,IOT and UI/UX design.
-- 🌱 I’m currently learning web development and flutter for app development .
-- 💞️ I’m looking to collaborate on projects
+- I’m Andrea.
+- I’m interested in the web,app development,IOT and UI/UX design.
+- I’m currently learning web development and flutter for app development .
+- I’m looking to collaborate on projects
 - 📫 How to reach me andreatresa2004@gmail.com
 
 <!---
