@@ -16,8 +16,11 @@
 - ⚡ Fun fact **I remember I dream , but not the contents of that dream ...?..//?**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+- [**Eyes Everywhere! : What Snowden Taught Us About Digital Privacy**](https://medium.com/@andreatresa2004/eyes-everywhere-what-snowden-taught-us-about-digital-privacy-3561ebf661de)
+- [**Confronting Parkinson’s Law and Finding Balance as a Student**](https://medium.com/@andreatresa2004/confronting-parkinsons-law-and-finding-balance-as-a-student-8e1e96c392cd)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
