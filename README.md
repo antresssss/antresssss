@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
 <h3 align="center">I’m passionate about designing, web development, and diving into areas like FOSS and cybersecurity. Learning and building myself up is a constant goal, and I enjoy picking up inspiration from the people around me. Academics have always been a strong suit, but I’m equally driven by hands-on exploration and self-growth. Always curious and eager to level up!</h3>
 
-- 🔭 I’m currently working on **HIVE(a habit tracking app)**
+- 🔭 I’m currently working on **HUSE(a habit tracking app)**
 
 - 🌱 I’m currently learning **React,Cybersecurity,Tech stuffs,Design Thinking**
 
