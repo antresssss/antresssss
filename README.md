@@ -33,6 +33,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antresssss&show_icons=true&locale=en&layout=compact" alt="antresssss" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antresssss&show_icons=true&theme=merko&bg_color=00d5ff&hide_border=true&locale=en" alt="antresssss" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antresssss&" alt="antresssss" /></p>
